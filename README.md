@@ -27,7 +27,3 @@ Within each activity folder, there will be sub-folders for:
 - `solved` : contains the solved solutions. `stu` activities will not contain the solved solutions until the end of the day.
 - `resources`: contains datasets used for the activity. Note that the datasets are also uploaded to a S3 bucket for easier access via Google Colab.
 
-# Copyright
-
-Copyright (c) Jonathan Neo, All Rights Reserved.
-Unauthorized copying of this file, via any medium is strictly prohibited.
